@@ -1,0 +1,60 @@
+.slider-container {
+    padding: 0 10rem;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    /*background-repeat: no-repeat;*/
+    background-position: bottom;
+    width: 79%;
+}
+
+.content-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 4rem 0;
+    width: 1700px;
+
+}
+
+
+.heading {
+    font-size: 2.5rem;
+    font-weight: bolder;
+    line-height: 1.1;
+    color: whitesmoke;
+    width: 100%;
+}
+
+.paragraph {
+    width: 70%;
+    font-size: 1.4rem;
+    margin-left: 1px;
+    color: whitesmoke;
+
+}
+
+
+
+.image-container {
+
+    height: 445px;
+    position: relative;
+    margin-left: 150px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
